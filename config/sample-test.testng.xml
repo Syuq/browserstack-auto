@@ -3,7 +3,13 @@
 <suite name="Cross-Platform">
     <test name="BStackDemo">
         <classes>
-            <class name="com.browserstack.BStackDemoTest" />
+            <class name="com.browserstack.BStackDemoTest"/>
         </classes>
     </test>
+    <test name="lab3">
+        <classes>
+            <class name="com.browserstack.lab3.lab3v2"/>
+        </classes>
+    </test>
+
 </suite>
