@@ -12,5 +12,16 @@
             <class name="com.browserstack.lab4.Lab4v2"/>
         </classes>
     </test>
+    <test name="flipkart">
+        <classes>
+            <class name="com.browserstack.lab5.Flipkart"/>
+        </classes>
+    </test>
+
+    <test name="Myntra">
+        <classes>
+            <class name="com.browserstack.lab5.SnapDeal"/>
+        </classes>
+    </test>
 </suite>
 
